@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset = "UTF-8">
+    <title> Final Submission HTML Class </title>
+ </head>
+ <body>
+ 	<h1>Marshall Kern</h1>
+ 	<div>
+ 	<a href="#Foods">One <alt=   Favorite Foods/></a> &nbsp
+ 	<a href="#Achievements">Two <alt=   Achievements /> </a> &nbsp
+ 	<a href="#More_About_Me">Three <alt=   More About Me /></a> &nbsp	
+ 	<a href="http://www.umich.edu">University of Michigan <alt=Link to University of Michigan /></a>
+ 	</div>
+   <section>
+   	  <a id = "Foods" >  
+   	<h2> Favorite Foods  </h2> <br>
+   	    <ul> Grapes</ul>
+   	    <ul> Baked Apples </ul>
+   	    <ul> Ceasar Salad </ul>
+   	    <ul> Chili </ul>l
+
+   </section>
+   <section>  
+      <a id="Achievements"></a>
+     	<h2> Achievements     </h2>  <br>
+     	<p> Progress in this course (100%) <meter min = "0" max = "100" Value = "100"> 100% </meter></p>
+     	<p> Progress in the Specialization capstone (20%) <meter min = "0" max = "100" Value = "20"> 20% </meter> </p>
+     	<p> Progress in life goals (83%) <meter min = "0" max = "100" Value = "83">83% </meter></p>
+   </section>
+
+   <section>
+   	  <a id="More_About_Me"></a>
+   	 <h2>  More About Me</h2>
+     <select> 
+         <select id = "My Childhood">
+                  <label for="Childhood">My Childhood</label>
+         <option value = 1> I live in NJ</option>
+            <option value = 2>   </option>
+            
+     </select>
+   </section>
+
+   <footer>
+    <p> <img src =" http://www.intro-webdesign.com/images/newlogo.png" alt="WD4E Logo">
+This page was created by Marshall Kern &amp; Colleen van Lent.  To learn more about web design, visit <a href="http://www.into-webdesign.com"> Intro to Web Design </a></p>
+   </footer>
+   </body> 
